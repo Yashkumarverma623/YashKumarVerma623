@@ -2,14 +2,15 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate the snake animation
+        uses: Platane/snk
         with:
           github_user_name: Yashkumarverma623
           outputs: |
