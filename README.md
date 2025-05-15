@@ -2,7 +2,6 @@
 
 
 
-
 ## 📊 GitHub Stats
 
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashkumarverma623&show_icons=true&theme=github_dark&hide_border=true)
@@ -18,3 +17,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashkumarverma623/Yashkumarverma623/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yashkumarverma623/Yashkumarverma623/output/github-snake.svg" />
 </picture>
+
+
+### 🐍 Watch the snake eat my contributions!
+
+![GitHub Snake](https://github.com/Yashkumarverma623/Yashkumarverma623/blob/output/github-snake.svg)
