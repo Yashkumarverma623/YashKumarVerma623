@@ -310,21 +310,21 @@ I design, benchmark, and deploy **agentic AI systems**, **high-precision retriev
 
 ### 🐍 Contribution Activity Stream
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashkumarverma623/Yashkumarverma623/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashkumarverma623/Yashkumarverma623/output/github-contribution-grid-snake.svg">
-  <img alt="Yash's GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yashkumarverma623/Yashkumarverma623/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashkumarverma623/YashKumarVerma623/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashkumarverma623/YashKumarVerma623/output/github-snake.svg">
+  <img alt="Yash's GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yashkumarverma623/YashKumarVerma623/output/github-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
 ### 📊 Repository & Coding Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashkumarverma623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkumarverma623&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Yash's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Yashkumarverma623&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Yash's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkumarverma623&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkumarverma623&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
 </p>
 
 </div>
