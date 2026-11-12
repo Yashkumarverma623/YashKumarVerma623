@@ -319,12 +319,11 @@ I design, benchmark, and deploy **agentic AI systems**, **high-precision retriev
 
 ### 📊 Repository & Coding Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashkumarverma623&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Yash's GitHub Stats" />
+ 
   <img src="https://streak-stats.demolab.com?user=Yashkumarverma623&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Yash's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkumarverma623&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages" />
+
 </p>
 
 </div>
